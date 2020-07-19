@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "897018640759",
+    "firebase_url": "https://djastip-upb.firebaseio.com",
+    "project_id": "djastip-upb",
+    "storage_bucket": "djastip-upb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897018640759:android:de13e0d208590728c80972",
+        "android_client_info": {
+          "package_name": "id.frudiansyah.djastip_upb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897018640759-7jvl4vaqplnp4av71gt2q09scb8mqi1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.frudiansyah.djastip_upb",
+            "certificate_hash": "6b0b063b723b4d6f170d2e52ab66cbdf126d478e"
+          }
+        },
+        {
+          "client_id": "897018640759-ahfnchqbbpccq7ge0v5jo5hpsoro310b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4IsfNvFddE231T_uSMtdas1SXogpg9rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897018640759-ahfnchqbbpccq7ge0v5jo5hpsoro310b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

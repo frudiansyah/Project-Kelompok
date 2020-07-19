@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "265290115377",
+    "firebase_url": "https://frudiansyah-project.firebaseio.com",
+    "project_id": "frudiansyah-project",
+    "storage_bucket": "frudiansyah-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265290115377:android:e7ee6040736ebec3fde810",
+        "android_client_info": {
+          "package_name": "id.frudiansyah.djastip_upb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265290115377-5ckemir916cv0va7l84kjrs9bk7fra2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFKjPbbJtCdofP5J8BuoKe7--1bt0IdZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265290115377-5ckemir916cv0va7l84kjrs9bk7fra2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
